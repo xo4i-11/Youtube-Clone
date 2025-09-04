@@ -1,0 +1,15 @@
+.flex-box{
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    border-style: solid;
+    border-color: gray;
+    width:400px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+p{
+    background-color: lightpink;
+
+}

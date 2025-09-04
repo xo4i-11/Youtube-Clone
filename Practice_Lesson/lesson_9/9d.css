@@ -1,0 +1,27 @@
+p{
+    margin-top:0;
+    margin-bottom:0;
+    font-family:Arial;
+}
+
+.box{
+    background-color:rgb(33, 33, 33);
+    width: 360px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    padding-right:0;
+    
+}
+
+.title{
+    color:white;
+    font-weight: bold;
+    font-size:20px;
+    margin-bottom:10px;
+}
+
+.content{
+    color:rgb(160, 160, 160);
+    width:330px;
+}

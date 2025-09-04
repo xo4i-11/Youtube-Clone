@@ -1,0 +1,9 @@
+.bar{
+    color:white;
+    background-color: green;
+    position: fixed;
+    right:0;
+    width: 100px;
+    top:0;
+    bottom:0;
+}

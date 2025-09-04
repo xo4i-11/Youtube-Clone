@@ -1,0 +1,24 @@
+.flex-box{
+  display: flex;
+  flex-direction: row;
+  height: 50px;
+}
+
+.flex-box-1{
+  background-color: lightpink;
+  width: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.item-1{
+    background-color:black;
+    color:white;
+}
+
+.blank{
+    background-color: lightblue;
+    width:200px;
+}

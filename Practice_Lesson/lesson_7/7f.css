@@ -1,0 +1,42 @@
+p{
+    font-family: Arial;
+    margin-top:0;
+    margin-bottom:0;
+    color:rgb(100, 100, 100);
+}
+
+
+.title{
+    margin-bottom:5px;
+    font-size:13px;
+}
+
+input{
+    border-color:rgb(100, 100, 100);
+    border-style:solid;
+    border-width:1.2px;
+    border-radius:2px;
+    margin-bottom:10px;
+    width:245px;
+    padding-top:3px;
+    padding-bottom:3px;
+}
+
+.term{
+    width:300px;
+    font-size:10px;
+    margin-bottom:10px;
+}
+
+button{
+    color:white;
+    background-color: rgb(10, 102, 194);
+    border:none;
+    border-radius:40px;
+    padding-top:12px;
+    padding-bottom:12px;
+    padding-left:85px;
+    padding-right:85px;
+    cursor:pointer;
+
+}

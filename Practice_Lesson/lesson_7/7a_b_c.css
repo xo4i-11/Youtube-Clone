@@ -1,0 +1,19 @@
+.a{
+    width:200px;
+    border-radius:10px;
+    margin-right:20px;
+}
+
+.b{
+    width:150px;
+    height:150px;
+    object-fit: cover;
+    margin-right:20px;
+}
+
+.c{
+    width:150px;
+    height:150px;
+    object-fit: cover;
+    border-radius:5000px;
+}

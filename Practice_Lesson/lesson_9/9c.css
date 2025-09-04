@@ -1,0 +1,19 @@
+p{
+    margin-left:20px;
+    font-family: Arial;
+}
+
+button{
+    margin-left:20px;
+}
+
+.no{
+    margin-left:0;
+}
+
+.box{
+    border-style:solid;
+    width:300px;
+    height:90px;
+    border-width: 1px;
+}

@@ -1,0 +1,28 @@
+.flex-box{
+    display: flex;
+    flex-direction: row;
+    height:50px;
+}
+
+.column-1{
+    background-color: lightpink;
+    width:80px;
+}
+
+.column-2{
+    background-color: lightblue;
+    width:200px;
+}
+
+.row-2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.item-2{
+    background-color: black;
+    color:white;
+
+}
